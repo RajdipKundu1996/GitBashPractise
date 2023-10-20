@@ -8,6 +8,8 @@ public class GitBashPractise {
 		System.out.println("GitBush is running. Don't Disturb");
 		
 		//Modified completed
+		
+		System.out.println("Branch Switching Done");
 	}
 
 }
